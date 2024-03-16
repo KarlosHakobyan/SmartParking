@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Login_Project\Login_Project\bin\Debug\Login_Project.exe.config
+C:\Users\User\source\repos\Login_Project\Login_Project\bin\Debug\Login_Project.exe
+C:\Users\User\source\repos\Login_Project\Login_Project\bin\Debug\Login_Project.pdb
+C:\Users\User\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.Login.resources
+C:\Users\User\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.Main.resources
+C:\Users\User\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.Properties.Resources.resources
+C:\Users\User\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.exe
+C:\Users\User\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.pdb
